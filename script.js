@@ -1,4 +1,4 @@
-contbotãoBostraPalavras=document.querySelector('#botãopalavrachve');
+contbotãoBostraPalavras = document.querySelector('#botãopalavrachave');
 
 botãoMostraPalavras.addEventlistener('click, mostraPalavrasChave');
 
